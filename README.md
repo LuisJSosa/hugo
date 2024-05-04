@@ -1,3 +1,14 @@
+# Table of Contents
+- [Overview](#overview)
+- [Sponsors](#sponsors)
+- [Installation](#installation)
+- [Build from source](#build-from-source)
+- [Documentation](#documentation)
+- [Support](#support)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Contributing](#contributing)
+- [Dependencies](#dependencies)
+
 [bep]: https://github.com/bep
 [bugs]: https://github.com/gohugoio/hugo/issues?q=is%3Aopen+is%3Aissue+label%3ABug
 [contributing]: CONTRIBUTING.md
@@ -110,6 +121,11 @@ Please submit documentation issues and pull requests to the [documentation repos
 Please **do not use the issue queue** for questions or troubleshooting. Unless you are certain that your issue is a software defect, use the [forum].
 
 Hugo’s [forum] is an active community of users and developers who answer questions, share knowledge, and provide examples. A quick search of over 20,000 topics will often answer your question. Please be sure to read about [requesting help] before asking your first question.
+
+## Frequently Asked Questions
+
+For immediate help with common questions, check out our [Frequently Asked Questions (FAQ)](./FAQ.md). This section aims to provide quick answers to many of the questions you might have about using Hugo.
+
 
 ## Contributing
 
