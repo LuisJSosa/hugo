@@ -65,5 +65,3 @@ After building your site with the `hugo` command, upload the `public` directory 
 This template example shows how to use Hugo's templating to include the site title, page title, and content.
 
 For more detailed information on using Hugo, refer to the [Hugo Documentation](https://gohugo.io/documentation/).
-
-This structured layout provides a cleaner, more navigable document. It separates broad topics into clear sections and uses questions as headings for quick scanning. The example code snippet is also neatly integrated to provide practical insight directly within the FAQ context.
